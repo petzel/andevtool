@@ -1,0 +1,20 @@
+/bin
+*.pyc
+
+# Gradle artifacts
+build/
+.gradle/
+gradle/
+*.jar
+
+# Mac files
+.DS_Store
+
+*.hprof
+
+# IntelliJ files
+*.iml
+.idea/
+*.ipr
+*.iws
+/bin
